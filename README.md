@@ -62,23 +62,17 @@ The project tracks:
 
 A high-level view of advertising performance including revenue, profit, ROAS, conversions, platforms, campaign objectives, and industries.
 
-![Executive Overview](images/executive_overview.png)
-
 ---
 
 ## 2️⃣ Campaign Performance
 
 Detailed analysis of campaign performance across platforms, devices, placements, and creative formats.
 
-![Campaign Performance](images/campaign_performance.png)
-
 ---
 
 ## 3️⃣ Audience & Creative Intelligence
 
 Analyzes audience demographics, interests, income levels, purchase intent, creative emotions, CTA performance, and creative age.
-
-![Audience & Creative Intelligence](images/audience_creative_intelligence.png)
 
 ---
 
